@@ -1,1 +1,1 @@
-setInnerText(document.getElementById("log"), "<>")
+setInnerText(document.getElementById("log"), "test")
